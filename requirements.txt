@@ -1,2 +1,6 @@
 spacy
 pandas
+spacy_transformers
+scikit-learn
+nltk
+wordcloud
