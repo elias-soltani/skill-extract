@@ -1,0 +1,7 @@
+README.md
+setup.py
+skill_extract.egg-info/PKG-INFO
+skill_extract.egg-info/SOURCES.txt
+skill_extract.egg-info/dependency_links.txt
+skill_extract.egg-info/requires.txt
+skill_extract.egg-info/top_level.txt
