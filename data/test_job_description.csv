@@ -1,0 +1,158 @@
+id,text
+1,"""About the job
+Fuel50 is a cloud-based SaaS company that delivers career pathing and talent mobility solutions to the world's leading organizations. Our products enable organizations to create a dynamic, responsive, and agile workforce and help employees and employers make better career decisions. We use artificial intelligence and machine learning to provide employees personalised career pathing and development recommendations and help employers retain and engage their workforce. Our clients include some of the world's largest and most innovative organisations.
+
+Fuel50 is rapidly growing and we're currently seeking a highly skilled and experienced Artificial Intelligence (AI) Engineer to join our AI team! As an AI Engineer, you will be an integral part of our in-house development team responsible for the development of the Fuel50 SaaS application, utilizing a range of technologies. Your primary role will involve designing, developing, and deploying scalable artificial intelligence solutions that can efficiently handle large amounts of data in production environments, which power our platform. Collaborating closely with data scientists, software engineers, and product managers, you will ensure that our production artificial intelligence models use the latest architecture and techniques and are scalable, reliable, and performant. You will also be accountable for monitoring and troubleshooting models to ensure that they meet business requirements. This position requires a strong technical background in artificial Intelligence, software engineering, and a deep passion for solving complex problems.
+
+As a champion of artificial intelligence best practices, you will provide technical and thought leadership to ensure that we adhere to industry standards and develop simple and scalable solutions while achieving engineering excellence. You will have exceptional communication skills, enabling you to effectively articulate challenges to your team and the wider engineering practice. Working in a cross-functional Agile environment, you will collaborate efficiently with others to achieve shared objectives.
+
+This role will be involved creating a world-class product with involvement in all aspects of the product lifecycle, from gathering requirements, brainstorming ideas, market analysis, and MVP definition, to building an MVP and working with your team to deliver the MVP into production.
+Design and develop artificial intelligence models and algorithms that improve the user experience and drive business value, while adhering to best practices for scalability and efficiency.
+Collect and analyse large, complex data sets and collaborate closely with data scientists to build and validate predictive models.
+Develop scalable and efficient AI pipelines and infrastructure to support our products, ensuring that the models can be trained and deployed quickly and reliably.
+Collaborate closely with product managers, data scientists, and other engineers to deliver high-quality AI solutions that meet business requirements, and ensure that the models are integrated seamlessly with the product.
+Conduct experiments to evaluate the performance of the AI models, and optimize them for accuracy and efficiency, using statistical analysis and visualization techniques.
+Build and maintain robust data processing, exploration, model training and evaluation tools, ensuring that they are well-documented and easy to use.
+Stay up-to-date with the latest developments in machine learning, AI and related technologies, and share knowledge with the team through regular training sessions and workshops.
+Communicate technical information and progress updates to both technical and non-technical stakeholders in a clear and concise manner, and work closely with the product and business teams to ensure that the AI solutions align with the company's goals and values.
+
+Requirements
+Graduate or Post-graduate degree in Computer Science, Engineering, Mathematics, Statistics, Data Science, or a related field.
+2+ years of experience in artificial intelligence, with a proven track record of delivering AI solutions in a production environment.
+Strong programming skills in Python or another high-level programming language.
+Familiarity with AI frameworks such as TensorFlow, Keras, PyTorch, or scikit-learn.
+Solid understanding of statistical analysis, hypothesis testing, and experimental design.
+Experience with data processing, data analysis, and data visualization tools such as Pandas, NumPy, Matplotlib, and Seaborn.
+Experience working with distributed computing frameworks such as AWS Redshift, Hadoop or Spark is a plus.
+Familiarity with software engineering best practices, including version control, testing, and continuous integration/continuous delivery.
+Strong problem-solving skills, and ability to work independently as well as collaboratively.
+Excellent communication, collaboration and interpersonal skills, with the ability to work effectively in a team environment.
+
+About Fuel50
+
+Fuel50 is an international, high-growth tech company. Our award-winning AI talent marketplace platform exists to improve the lives and careers of people everywhere by empowering forward-thinking companies to deploy career growth and talent mobility initiatives to attract and retain talent while boosting engagement and productivity. In other words, we are at the forefront of changing how people work and how organizations empower their people.
+
+Our tech is global and has touched careers across 100+ companies in 13+ languages and 25+ countries. Our clients are some of the biggest brands in their respective industries. And, most importantly, we practice what we preach and believe everyone should be in a job they love (including you!).
+
+Fuel50 is immensely proud of our strong team culture, where our people (or “Fuellies”) come first. Our vision and values are inclusive and transparent and built upon quarterly business objectives that drive our growth, encourage goal setting, and celebrate milestones every step of the way.
+
+The Fuel50 vision has resonated with investors across NZ, Australia, UK, and the USA - supporting our global growth and helping us become the pioneers in this fast-growing talent space.
+
+We are also a socially responsible company. We work with charities that help women and minority groups land on their feet through career coaching and support.
+
+Benefits
+
+The chance to work in a fast growing organisation that supports global businesses to mobilize their talent and create high employee engagement and outstanding workplaces. Opportunity to use Fuel50 platform to understand and shape future career pathway. Be based at our unique and cool HQ in Takapuna, with coffee, snacks, pool, pingpong and pizza! Chance to work on some innovative People & Culture solutions as part of the People Strategy.
+
+As well as our day-to-day responsibilities, all Fuellies play an integral part in growing our culture with us and ensuring that Fuel50 remains an inspirational and amazing place to work. Some additional benefits are:
+Day off on your birthday, your Fuel50 anniversary and an annual companywide celebration day.
+Refuel days - a chance to take a day off once a quarter to rest, relax and refuel yourself.
+Employee Stock Options Plan (ESOP).
+Flexible working times and remote working (as above) - we're very supportive of school commitments, traveling in off-peak hours, looking after the kids, and all that jazz.
+Investing in you with career and development planning, using our very own Fuel50 software and online Fuellie University.
+A very progressive parental leave policy - get extra flexibility and time off on top of what your local government already mandates.
+Fully subsidised medical insurance with Southern Cross.
+
+What is it like to be a Fuellie?
+
+We know that having the right people with the right attitude and behaviour is a big part of what makes us successful. Living our values is an important part of being successful in this role.
+We have a culture around continuous (but super friendly) feedback and recognition - be part of a family-like team that is working towards a common goal and helping each other every step of the way.
+We have #SuperheroAwards at every quarterly sprint meeting and every weekly team meeting includes spontaneous recognition and shout-outs across the business.
+We'll have your back when you need help - your colleagues want to see you succeed and work hard to help you do so.
+We work hard and deliver amazing results to our clients - when you see our amazing feedback, you'll be proud to be a Fuellie.
+
+Application Process
+
+If this sounds like you, then please apply. If you’re not sure you're ready or perhaps you don't meet all requirements yet, please apply anyway. We'll review every application that we get.
+
+This role is based in New Zealand, as a result candidates must hold the relevant right to work in NZ i.e. Citizenship or a work visa at time of application."""
+2,"""About the job
+Hours of work: Full-time (6 month fixed term contract with the possibility to go full time)
+
+Location: Auckland based.
+
+Please note: You must have finished your PhD within the last 12 months (or have submitted your PhD).
+
+
+The role...
+
+Ambit is hiring! We’re looking for a PhD graduate (or a student who is about to graduate) with experience in the AI / Machine Learning field. AI is a core part of our product and what we do. We have a number of ongoing initiatives to improve the quality, efficiency and capability of our conversational AI platform.
+
+
+The aim of this role is to:
+
+Enhance our existing AI components
+
+Investigate new approaches and technologies that we can use to improve our AI
+
+Be part of new feature development
+
+Be part of our ongoing education and improvement culture by facilitating educational sessions through the company around various AI / Machine Learning topics
+
+This is an awesome opportunity to join a growing team where you'll be working with the Engineering team (and the wider organisation) to help us deliver amazing customer experiences. We have a roadmap and it’s full of exciting features for you to work on.
+
+
+What’s in it for you?
+
+
+You’ll get to work on bleeding edge features that will be technically challenging, rewarding and exciting.
+
+
+We don’t believe in micromanagement - we believe in empowering our Engineering team to collaborate and be the tech experts. You’ll be a tech expert at Ambit and you’ll have the opportunity to step up, own solutions and help improve our development practices and the technologies that we use.
+
+
+We have a culture of innovation and exploring ideas to make our product even more awesome.
+
+
+There’s also the standard cool stuff like a central Auckland office, flexible working hours and home office, company breakfasts, company events, having your birthday off, a wellness bonus and a phone plan subsidy.
+
+
+What you’ll be doing...
+
+This is a diverse and rewarding role and you’ll also be actively involved in:
+
+Working on projects to improve the quality, efficiency and capability of our conversational AI components.
+
+Writing and delivering features in our roadmap.
+
+Creating Proof of Concepts and carrying out research to explore and test improvements and enhancements to our AI components.
+
+Working with the team to troubleshoot and resolve bugs and issues.
+
+Creating and contributing to technical design discussions and strategies with the wider Engineering team.
+
+Carrying out training sessions with the wider company to continue to improve our knowledge around AI / Machine Learning.
+?
+
+What skills are we looking for?
+
+For this role we’re looking for someone with the following knowledge and skills:
+
+AI / Machine Learning
+
+Experience / knowledge around GPT-based technologies and models
+
+Experience in the field of conversational AI would be great (but not essential)
+
+Python experience
+It would also be great if you had experience in some the following technologies:
+
+Javascript / Typescript
+
+NodeJS
+
+AWS (in particular SageMaker, Lambda etc)
+
+SQL and NoSQL databases (e.g. Mongo, DynamoDB, PostgreSQL etc)
+
+What are we looking for in you as a person?
+
+To succeed in this role you’ll need to be:
+
+A kind person who believes in building respectful relationships with the people they work with.
+
+A team player - teamwork is vital given the intimate nature of Ambit. This is a highly collaborative role and we firmly believe that when we all work closely together, we help our customers to succeed.
+
+Someone who gets excited about challenges, possibilities, new ideas and opportunities - we’re looking for someone who wants to get actively involved in helping to improve our product and systems.
+
+Someone who has a genuine understanding of why customers are important."""
