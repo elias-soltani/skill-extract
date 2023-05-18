@@ -15,18 +15,6 @@ Install the module using pip:
 pip install skill-extract
 ```
 
-## Usage
-
-To extract skills from job postings or resumes, you can use the provided functions and methods in the module. Here's an example of how to use it:
-
-```python
-from skill_extract import extract_skills
-
-job_description = "..."
-skills = extract_skills(job_description)
-print(skills)
-```
-
 ## Features
 
 - Automated skill extraction from job postings and resumes.
