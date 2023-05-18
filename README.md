@@ -39,7 +39,3 @@ We welcome contributions from the community to enhance and improve Skill Extract
 ## License
 
 Skill Extract is distributed under the [MIT License](LICENSE). Feel free to use and modify the module according to your needs.
-
-```
-
-Feel free to modify the content based on your specific requirements and add any additional sections or information you deem necessary.
