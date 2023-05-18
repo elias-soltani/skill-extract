@@ -1,6 +1,4 @@
-Sure! Here's an expanded version of your `readme.md` file:
 
-```
 # Skill Extract
 
 Skill Extract is an NLP module designed to automatically extract skills from job postings and resumes.
